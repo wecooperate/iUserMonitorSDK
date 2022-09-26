@@ -4,7 +4,7 @@ iUserMonitorSDK是一款针对用户行为的监控的开发套件，是iMonitor
 
 使用iUserMonitorSDK可以实现驱动层没法监控到的一些用户行为。包括不限于文件的各种操作（包括拷贝、复制、下载、上传等，支持的渠道包括U盘、FTP、共享目录、IM、网盘等）、IM的聊天记录、邮件收发、文件打印等一些行为的监控。
 
-### [接入文档](https://imonitorsdk.com/docs/iUserMonitor)
+### [接入文档](https://imonitorsdk.com/docs/i-user-monitor)
 
 ### 📦 适用于如下的产品
 
